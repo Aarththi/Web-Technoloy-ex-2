@@ -1,0 +1,20 @@
+# HTML5 Forms and CSS3 Styling
+
+This project demonstrates the design and development of a responsive website using HTML5 and CSS3. It includes HTML5 semantic elements, headings, paragraphs, images, hyperlinks, tables, lists, and different form controls such as text fields, email, password, radio buttons, checkboxes, dropdown lists, date picker, range slider, and submit and reset buttons. CSS3 is used to improve the website's appearance through colours, layouts, styling, and media queries. The website is designed to provide a simple and user-friendly interface while demonstrating the basic concepts of HTML5 and CSS3.
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Features
+- Responsive webpage design
+- HTML5 form elements
+- Navigation links
+- Tables and lists
+- Images and hyperlinks
+- CSS3 styling and media queries
+
+## How to Run
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open `index.html` in a web browser.
